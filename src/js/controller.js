@@ -107,6 +107,7 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
   console.log('version 1.0');
+  console.log('version 1 improvement done!!');
 };
 
 init();
